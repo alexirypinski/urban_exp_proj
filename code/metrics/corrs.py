@@ -1,0 +1,22 @@
+counts_corr_temperate2 = gen_spearman_correlations(counts_lst_temperate2, counts_lst_op_temperate2)
+counts_corr_tropical2 = gen_spearman_correlations(counts_lst_tropical2, counts_lst_op_tropical2)
+counts_corr_desert2 = gen_spearman_correlations(counts_lst_desert2, counts_lst_op_desert2)
+counts_corr_semiarid2 = gen_spearman_correlations(counts_lst_semiarid2, counts_lst_op_semiarid2)
+counts_corr_subtropical2 = gen_spearman_correlations(counts_lst_subtropical2, counts_lst_op_subtropical2)
+counts_corr_mediterranean2 = gen_spearman_correlations(counts_lst_mediterranean2, counts_lst_op_mediterranean2)
+
+
+ratio_corr_temperate2 = gen_spearman_correlations(ratio_lst_temperate2, ratio_lst_op_temperate2)
+ratio_corr_tropical2 = gen_spearman_correlations(ratio_lst_tropical2, ratio_lst_op_tropical2)
+ratio_corr_desert2 = gen_spearman_correlations(ratio_lst_desert2, ratio_lst_op_desert2)
+ratio_corr_semiarid2 = gen_spearman_correlations(ratio_lst_semiarid2, ratio_lst_op_semiarid2)
+ratio_corr_subtropical2 = gen_spearman_correlations(ratio_lst_subtropical2, ratio_lst_op_subtropical2)
+ratio_corr_mediterranean2 = gen_spearman_correlations(ratio_lst_mediterranean2, ratio_lst_op_mediterranean2)
+
+
+decay_corr_temperate2 = gen_spearman_correlations(decay_lst_temperate2, decay_lst_op_temperate2)
+decay_corr_tropical2 = gen_spearman_correlations(decay_lst_tropical2, decay_lst_op_tropical2)
+decay_corr_desert2 = gen_spearman_correlations(decay_lst_desert2, decay_lst_op_desert2)
+decay_corr_semiarid2 = gen_spearman_correlations(decay_lst_semiarid2, decay_lst_op_semiarid2)
+decay_corr_subtropical2 = gen_spearman_correlations(decay_lst_subtropical2, decay_lst_op_subtropical2)
+decay_corr_mediterranean2 = gen_spearman_correlations(decay_lst_mediterranean2, decay_lst_op_mediterranean2)
